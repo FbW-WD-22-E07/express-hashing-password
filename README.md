@@ -1,1 +1,1 @@
-# express-hashing-password
+# Intro to bcrypt
